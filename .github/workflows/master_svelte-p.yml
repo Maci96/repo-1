@@ -59,4 +59,4 @@ jobs:
           app-name: 'svelte-p'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F041A3FBB0DA4632BF9694DA7F79D71C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6DC0E0AAD7B1425CB530448CDDB28A41 }}
